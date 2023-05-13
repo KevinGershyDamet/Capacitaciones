@@ -1,0 +1,9 @@
+2023-05-08 11:55:56,229 - DEBUG - Inicio del programa
+2023-05-08 11:55:56,230 - DEBUG - Fin del programa
+2023-05-08 11:55:56,230 - DEBUG - El valor de x en esta iteración es 1
+2023-05-08 11:55:56,230 - DEBUG - El valor de x en esta iteración es 2
+2023-05-08 11:55:56,230 - DEBUG - El valor de x en esta iteración es 3
+2023-05-08 11:55:56,231 - DEBUG - El valor de x en esta iteración es 4
+2023-05-08 11:55:56,231 - DEBUG - El valor de x en esta iteración es 5
+2023-05-08 11:55:56,231 - DEBUG - El valor de x en esta iteración es 6
+2023-05-08 11:55:56,231 - DEBUG - El valor de x en esta iteración es 7

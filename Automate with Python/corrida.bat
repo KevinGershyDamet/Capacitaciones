@@ -1,0 +1,2 @@
+@py "codes.py" %*
+@pause
